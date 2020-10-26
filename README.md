@@ -19,6 +19,7 @@ Hey, I am HemanthJabalpuri.
 I am neither Noob nor Experienced.  
 I am interested in tweaking Android.  
 You can also find me at [XDA](https://forum.xda-developers.com/member.php?u=8953766)  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HemanthJabalpuri&style=flat-square" alt="HemanthJabalpuri" /> </p>  
 You can contact me at [Telegram](https://t.me/HemanthJabalpuri)  
 
+
+<img src="https://komarev.com/ghpvc/?username=HemanthJabalpuri&style=flat-square" alt="HemanthJabalpuri" />
