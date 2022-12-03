@@ -34,8 +34,11 @@ You can mail me at [GMail](hemanthjabalpuri@gmail.com)
 - [List of apps for Android 1.6+](https://github.com/HemanthJabalpuri/AncientApps)
 - [Run Emulator without studio](https://github.com/HemanthJabalpuri/AndroidEmulator_without_Studio)
 - [My MultilingOKeyboard config](https://gist.github.com/HemanthJabalpuri/224fa54b46f6904eb8ee1dcad9c1be28)
+<hr />
 
-
-
-
-
+**Some of my XDA Threads**
+- [Root Your Android!](https://forum.xda-developers.com/t/root-you-android.4203297/)
+- [Lightweight apps for Android](https://forum.xda-developers.com/t/lightweight-apps.3803885/)
+- [SuperSU & Xposed for MEmu and LDPlayer Android 7](https://forum.xda-developers.com/t/guide-magisk-supersu-and-xposed-for-memu-7-3-2-or-ldplayer-4-0-45.4222919/)
+- [Small Utilities for Realme C12](https://forum.xda-developers.com/t/small-utilities-for-realme-c12.4267521/)
+- (Old) [POC Randomise bootanimation script](https://forum.xda-developers.com/t/randomise-bootanimation-with-init-d-script.3888440/)
