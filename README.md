@@ -20,3 +20,4 @@ I am neither Noob nor Experienced.
 I am interested in tweaking Android.  
 You can also find me at [XDA](https://forum.xda-developers.com/member.php?u=8953766)  
 You can contact me at [Telegram](https://t.me/HemanthJabalpuri)  
+You can mail me at [GMail](hemanthjabalpuri@gmail.com)
