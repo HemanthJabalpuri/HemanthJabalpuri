@@ -23,6 +23,7 @@ You can contact me at [Telegram](https://t.me/HemanthJabalpuri)
 You can mail me at [GMail](hemanthjabalpuri@gmail.com)
 
 **Some of my repos**
+- [TWRP for Moto G52](https://github.com/HemanthJabalpuri/twrp_motorola_rhode)
 - [TWRP for Realme C12](https://github.com/HemanthJabalpuri/twrp_realme_RMX2185)
 - [TWRP for Infinix Zero 8](https://github.com/HemanthJabalpuri/twrp_infinix_X687)
 - [TWRP for Realme C15 QCom](https://github.com/HemanthJabalpuri/twrp_realme_RMX2195)
